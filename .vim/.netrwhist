@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/chrisamaphone/informgress/stories/DumbExample'
+let g:netrw_dirhist_2='/Users/chrisamaphone/daily'
+let g:netrw_dirhist_3='/Users/chrisamaphone/thesis/notes'
+let g:netrw_dirhist_4='/Users/chrisamaphone/thesis/interactive-lp/examples/tamara'
+let g:netrw_dirhist_5='/Users/chrisamaphone/functioning/examples/starbot'
+let g:netrw_dirhist_6='/Users/chrisamaphone/modules-150/writeup/include'
+let g:netrw_dirhist_7='/Users/chrisamaphone/improv/demo/hms_data'
